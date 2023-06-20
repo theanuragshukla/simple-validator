@@ -1,4 +1,4 @@
-gonst checkSpaces = (str, exact = true) => {
+const checkSpaces = (str, exact = true) => {
   var len = str.replace(/\s/g, "").length;
   return exact ? len === str.length && len !== 0 : len !== 0;
 };
