@@ -1,6 +1,6 @@
 {
   "name": "some-random-form-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple form Validator",
   "main": "index.js",
   "scripts": {
